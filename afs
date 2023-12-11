@@ -1,0 +1,36 @@
+[33mcommit 5bd32022d3a294d40b0bfe4ccd8188d71ae0278c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: helenwangruoxi <127977801+helenwangruoxi@users.noreply.github.com>
+Date:   Fri Dec 8 17:50:25 2023 +0000
+
+    Update README.md
+
+[33mcommit d193a0c9e4ade9aa3bdd0ce309b23b768a978050[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 72d744a 7c58175
+Author: helenwangruoxi <helenwangruoxi@gmail.com>
+Date:   Fri Dec 8 17:34:20 2023 +0000
+
+    Merge branch 'emergency-fix'
+
+[33mcommit 7c581755c9d9c54313ccd3ab6536ff698c744862[m
+Author: helenwangruoxi <helenwangruoxi@gmail.com>
+Date:   Fri Dec 8 17:25:53 2023 +0000
+
+    updated index.html with emergency fix
+
+[33mcommit 72d744acf088f2b7bf7f3723a14ee0964efe133c[m
+Author: helenwangruoxi <helenwangruoxi@gmail.com>
+Date:   Fri Dec 8 17:18:37 2023 +0000
+
+    Test
+
+[33mcommit 7bef859c9e23ce02175cd02c78bce1a4dd11f7ec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mhello-world-images[m[33m)[m
+Author: helenwangruoxi <helenwangruoxi@gmail.com>
+Date:   Fri Dec 8 15:41:54 2023 +0000
+
+    Updated index.html with a new line
+
+[33mcommit 28f6c468e43292b3e02503d55c382276860bf266[m
+Author: helenwangruoxi <helenwangruoxi@gmail.com>
+Date:   Fri Dec 8 15:35:24 2023 +0000
+
+    First release of Hello World!
